@@ -1,0 +1,46 @@
+.App {
+    background-color: #191d2b;
+}
+
+.head {
+    display: flex;
+    color: #FFFF;
+    font-size: xx-large;
+    font-family: 'Times New Roman';
+    justify-content: center;
+}
+
+@media screen and (max-width:700px) {
+    .head {
+        background-color: #191d2b;
+        width: 700px;
+    }
+}
+
+@media screen and (max-width:970px) {
+    .head {
+        background-color: #191d2b;
+        width: 970px;
+    }
+}
+
+@media screen and (min-width:1070px) {
+    .head {
+        background-color: #191d2b;
+        width: 1070px;
+    }
+}
+
+@media screen and (max-width:1432px) {
+    .head {
+        background-color: #191d2b;
+        width: 1432px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .head {
+        background-color: #191d2b;
+        width: 800px;
+    }
+}
