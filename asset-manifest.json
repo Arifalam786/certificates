@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/certificates/static/css/main.dfd5a441.css",
-    "main.js": "/certificates/static/js/main.cd5626cd.js",
+    "main.js": "/certificates/static/js/main.d97af436.js",
     "static/js/787.5cd5cd5b.chunk.js": "/certificates/static/js/787.5cd5cd5b.chunk.js",
     "static/media/coursera basic data descre_page-0001.jpg": "/certificates/static/media/coursera basic data descre_page-0001.e0a9afb7401f0547dd2d.jpg",
     "static/media/coursera NoSQL Cirtificate_page-0001.jpg": "/certificates/static/media/coursera NoSQL Cirtificate_page-0001.c8ed4cb3d45f87acaee8.jpg",
@@ -13,6 +13,7 @@
     "static/media/data visualization coursera_page-0001.jpg": "/certificates/static/media/data visualization coursera_page-0001.e183d80d70aea120e97e.jpg",
     "static/media/coursera data analysis with python_page-0001.jpg": "/certificates/static/media/coursera data analysis with python_page-0001.a71a13411ac51d1a3636.jpg",
     "static/media/cerificate_arif_page-0001.jpg": "/certificates/static/media/cerificate_arif_page-0001.81e4d14b6e901acfe334.jpg",
+    "static/media/Python_Essentials_1_Badge20230629-28-pfxoq7_page-0001.jpg": "/certificates/static/media/Python_Essentials_1_Badge20230629-28-pfxoq7_page-0001.66cf52014c69b754daa7.jpg",
     "static/media/infosys python part 1_page-0001.jpg": "/certificates/static/media/infosys python part 1_page-0001.6ae48e3b0bc56f9de33c.jpg",
     "static/media/programming using java infosys_page-0001.jpg": "/certificates/static/media/programming using java infosys_page-0001.56920b0f9fb13fcd6b48.jpg",
     "static/media/deep learning for developer infosys_page-0001.jpg": "/certificates/static/media/deep learning for developer infosys_page-0001.393ee12941dcb74bd30d.jpg",
@@ -21,11 +22,11 @@
     "static/media/python_1.jpg": "/certificates/static/media/python_1.2f2c0e3b9b43820f6e2f.jpg",
     "index.html": "/certificates/index.html",
     "main.dfd5a441.css.map": "/certificates/static/css/main.dfd5a441.css.map",
-    "main.cd5626cd.js.map": "/certificates/static/js/main.cd5626cd.js.map",
+    "main.d97af436.js.map": "/certificates/static/js/main.d97af436.js.map",
     "787.5cd5cd5b.chunk.js.map": "/certificates/static/js/787.5cd5cd5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd5a441.css",
-    "static/js/main.cd5626cd.js"
+    "static/js/main.d97af436.js"
   ]
 }
