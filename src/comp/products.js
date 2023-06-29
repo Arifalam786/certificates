@@ -14,7 +14,15 @@ import img13 from './img/machine learning with python coursera_page-0001 (1).jpg
 import img14 from './img/Coursera  deep learning_page-0001 (1).jpg'
 import img15 from './img/deep learning for developer infosys_page-0001.jpg'
 import img16 from './img/exploratory data analysis infosys_page-0001.jpg'
+import img17 from './img/Python_Essentials_1_Badge20230629-28-pfxoq7_page-0001.jpg'
 export const products = [{
+        id: 1,
+        title: "Python Essentials 1",
+        description: "CISCO",
+
+        img: img17
+    },
+    {
         id: 1,
         title: "Exploratory data analysis",
         description: "SpringBoard - Infosys",
