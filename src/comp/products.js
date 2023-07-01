@@ -15,10 +15,18 @@ import img14 from './img/Coursera  deep learning_page-0001 (1).jpg'
 import img15 from './img/deep learning for developer infosys_page-0001.jpg'
 import img16 from './img/exploratory data analysis infosys_page-0001.jpg'
 import img17 from './img/Python_Essentials_1_Badge20230629-28-pfxoq7_page-0001.jpg'
+import img18 from './img/Networking_Basics_Badge20230701-28-smtjkb_page-0001.jpg'
 export const products = [{
         id: 1,
+        title: "Networking Basics",
+        description: "CISCO - Networking academy",
+
+        img: img18
+    },
+    {
+        id: 1,
         title: "Python Essentials 1",
-        description: "CISCO",
+        description: "CISCO - Networking Academy",
 
         img: img17
     },
