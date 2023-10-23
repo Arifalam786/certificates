@@ -16,7 +16,31 @@ import img15 from './img/deep learning for developer infosys_page-0001.jpg'
 import img16 from './img/exploratory data analysis infosys_page-0001.jpg'
 import img17 from './img/Python_Essentials_1_Badge20230629-28-pfxoq7_page-0001.jpg'
 import img18 from './img/Networking_Basics_Badge20230701-28-smtjkb_page-0001.jpg'
+import img19 from './img/infosys reactjs 5 sept 23_page-0001.jpg'
+import img20 from './img/HTML css infosys 6 sept 23_page-0001.jpg'
+import img21 from './img/Data Science and Machine Learning Pro+ Certificate cum Internship_page-0001.jpg'
 export const products = [{
+        id: 1,
+        title: "Networking Basics",
+        description: "CISCO - Networking academy",
+
+        img: img21
+    },
+    {
+        id: 1,
+        title: "Networking Basics",
+        description: "CISCO - Networking academy",
+
+        img: img20
+    },
+    {
+        id: 1,
+        title: "Networking Basics",
+        description: "CISCO - Networking academy",
+
+        img: img19
+    },
+    {
         id: 1,
         title: "Networking Basics",
         description: "CISCO - Networking academy",
