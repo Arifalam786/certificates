@@ -21,22 +21,22 @@ import img20 from './img/HTML css infosys 6 sept 23_page-0001.jpg'
 import img21 from './img/Data Science and Machine Learning Pro+ Certificate cum Internship_page-0001.jpg'
 export const products = [{
         id: 1,
-        title: "Networking Basics",
-        description: "CISCO - Networking academy",
+        title: "Data Science Internship",
+        description: "YBI - Foundation",
 
         img: img21
     },
     {
         id: 1,
-        title: "Networking Basics",
-        description: "CISCO - Networking academy",
+        title: "Modern HTML and CSS",
+        description: "Infosys - SpringBoard",
 
         img: img20
     },
     {
         id: 1,
-        title: "Networking Basics",
-        description: "CISCO - Networking academy",
+        title: "ReactJS",
+        description: "Infosys - SpringBoard",
 
         img: img19
     },
