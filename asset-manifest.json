@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/certificates/static/css/main.dfd5a441.css",
-    "main.js": "/certificates/static/js/main.445212ff.js",
+    "main.js": "/certificates/static/js/main.f3d8de34.js",
     "static/js/787.5cd5cd5b.chunk.js": "/certificates/static/js/787.5cd5cd5b.chunk.js",
     "static/media/coursera basic data descre_page-0001.jpg": "/certificates/static/media/coursera basic data descre_page-0001.e0a9afb7401f0547dd2d.jpg",
     "static/media/coursera NoSQL Cirtificate_page-0001.jpg": "/certificates/static/media/coursera NoSQL Cirtificate_page-0001.c8ed4cb3d45f87acaee8.jpg",
@@ -26,11 +26,11 @@
     "static/media/python_1.jpg": "/certificates/static/media/python_1.2f2c0e3b9b43820f6e2f.jpg",
     "index.html": "/certificates/index.html",
     "main.dfd5a441.css.map": "/certificates/static/css/main.dfd5a441.css.map",
-    "main.445212ff.js.map": "/certificates/static/js/main.445212ff.js.map",
+    "main.f3d8de34.js.map": "/certificates/static/js/main.f3d8de34.js.map",
     "787.5cd5cd5b.chunk.js.map": "/certificates/static/js/787.5cd5cd5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd5a441.css",
-    "static/js/main.445212ff.js"
+    "static/js/main.f3d8de34.js"
   ]
 }
